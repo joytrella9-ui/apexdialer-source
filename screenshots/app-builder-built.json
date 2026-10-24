@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "ApexDialer",
+      "hasCanvas": false,
+      "bodyTextLen": 740,
+      "bodyTextHash": "2b3c7e8f4b2aeaf9a4fdac09a84627debabd64e24173865280556f6ac3255aca",
+      "bodyTextPrefix": "APEXDIALER · NIGHT DESK The line stays in the room. A browser so",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "ApexDialer",
+      "hasCanvas": false,
+      "bodyTextLen": 740,
+      "bodyTextHash": "2b3c7e8f4b2aeaf9a4fdac09a84627debabd64e24173865280556f6ac3255aca",
+      "bodyTextPrefix": "APEXDIALER · NIGHT DESK The line stays in the room. A browser so",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
